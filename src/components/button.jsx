@@ -7,7 +7,7 @@
 export default function Button ({text, color}) {
     return (
         <button>
-            {text}
+            {text} !!!! :;3
         </button>
     )
 }
